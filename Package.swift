@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Batch",
-            url: "https://download.batch.com/sdk/ios/spm/BatchSDK-ios_spm-xcframework-3.0.1.zip",
+            url: "https://api.toosla.com/fleetmanager/BatchSDK-ios_spm-xcframework-3.0.1.zip",
             checksum: "944de4c24f776923c69b848a67452fb81000ddd53415330cf94a708a6e1ebd3e"
         )
     ]
